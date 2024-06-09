@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/black-domon">Mohammad sulton firmansyah kurniawan</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/onepcu">Mohammad sulton firmansyah kurniawan</a></h1>
 <h3 align="center">A passionate web developer from Pujer, Bondowoso, Indonesia</h3>
-<img align="right" width="400" src="https://bayanbox.ir/view/1353559592827697052/programmer.gif">
+<img align="right" width="400" src="https://www.pxfuel.com/en/desktop-wallpaper-hhxac">
 
 - 🔭 I’m currently working on **PP Nurul Jadid**
 
