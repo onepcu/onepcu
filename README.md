@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/onepcu">Mohammad sulton firmansyah kurniawan</a></h1>
 <h3 align="center">A passionate web developer from Pujer, Bondowoso, Indonesia</h3>
-<img align="right" width="549px" src="https://i.pinimg.com/474x/0f/c1/29/0fc1294cd23435b06719c4f9e8530a01.jpg">
+<img align="right" width="329px" src="https://i.pinimg.com/474x/0f/c1/29/0fc1294cd23435b06719c4f9e8530a01.jpg">
 
 - 🔭 I’m currently working on **PP Nurul Jadid**
 
