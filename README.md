@@ -20,7 +20,7 @@
 <a href="https://fb.com/Kaum Rebahan" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Kaum Rebahan" height="30" width="40" />
 </a>
-<a href="https://instagram.com/Kaum Rebahan" target="blank">
+<a href="https://www.instagram.com/xyzmanz17/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xyzmanz17" height="30" width="40" />
 </a>
 <a href="https://wa.me/+6285895133736" target="blank">
